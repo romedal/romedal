@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @romedal
-- 👀 I’m interested in EMBEDDED, Android and other 
-- 🌱 I’m currently learning AOSP
+- 👀 I’m interested in EMBEDDED, Android, Containers and other 
+- 🌱 I’m currently learning AOSP, Yocto
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me romedal7@gmail.net
 
