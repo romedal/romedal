@@ -2,7 +2,7 @@
 - 👀 I’m interested in EMBEDDED, Android, Containers and other 
 - 🌱 I’m currently learning QNX, Autosar Adaptive
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me romedal7@ukr.net
+- 📫 How to reach me: romedal7@gmail.com
 
 <!---
 romedal/romedal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
